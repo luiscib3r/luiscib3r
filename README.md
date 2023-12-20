@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+  Hi 👋 my name is Luis Antonio Correa Leyva 👨🏻‍💻
+</h1>
 
-<!--
-**luiscib3r/luiscib3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  Computer Scientist && Software Engineer a strong blend of theoretical knowledge and practical software engineering experience.
+</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/luisciber"><img src="https://img.shields.io/badge/luisciber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/luisciber"/></a>
+  <a href="https://github.com/luiscib3r"><img src="https://img.shields.io/github/followers/luiscib3r?label=follow&style=social"/></a>
+  <a href="https://twitter.com/luiscib3r"><img src="https://img.shields.io/twitter/follow/luiscib3r?style=social"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/luisciber" target="blank"><img align="center" src="linkedin.svg" alt="luisciber" height="20" width="20" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://profile.codersrank.io/user/luiscib3r" target="blank"><img align="center" src="codersrank.svg" alt="luisciber" height="20" width="20" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/luiscib3r" target="blank"><img align="center" src="twitter.svg" alt="luisciber" height="20" width="20" /></a>
+</p>
+
+<p align="center">
+  <a href="https://luisciber.com" target="blank">
+    <strong>
+      Visit my website to know more about me
+    </strong>
+  </a>
+</p>
