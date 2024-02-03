@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Computer Scientist && Software Engineer working on redefine the boundaries of technological excellence.
+  👨🏻‍💻 Computer Scientist and Software Engineer working to redefine the boundaries of technological excellence, or perhaps I just enjoy tackling difficult problems. Using Flutter, C++, Python, and a lot of science to achieve these goals.
 </h4>
 
 <p align="center">
