@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Computer Scientist && Software Engineer a strong blend of theoretical knowledge and practical software engineering experience.
+  Computer Scientist && Software Engineer working on redefine the boundaries of technological excellence.
 </h4>
 
 <p align="center">
@@ -13,9 +13,11 @@
 </p>
 
 <p align="center">
+  Follow me on social media for updates and insights:
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/luisciber" target="blank"><img align="center" src="linkedin.svg" alt="luisciber" height="20" width="20" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://profile.codersrank.io/user/luiscib3r" target="blank"><img align="center" src="codersrank.svg" alt="luisciber" height="20" width="20" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/luiscib3r" target="blank"><img align="center" src="twitter.svg" alt="luisciber" height="20" width="20" /></a>
 </p>
