@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi 👋 my name is Luis Antonio Correa Leyva 👨🏻‍💻
+  Hi 👋 my name is Luis Ciber 👨🏻‍💻
 </h1>
 
 <h4 align="center">
-  👨🏻‍💻 Computer Scientist and Software Engineer working to redefine the boundaries of technological excellence, or perhaps I just enjoy tackling difficult problems. Using Flutter, C++, Python, and a lot of science to achieve these goals.
+  👨🏻‍💻 Computer Scientist && Software Engineer
 </h4>
 
 <p align="center">
